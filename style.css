@@ -48,7 +48,7 @@ h1::after{
     transform: translateX(-50%);
     width: 50%;
     height: 3px;
-    background: linear-gradient(90deg,var(--primary-color),var(--secondary-color));
+    background: linear-gradient(90deg,var(--primary-color),#9ec2e5);
     border-radius: 3px;
 }
 
